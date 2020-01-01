@@ -1,0 +1,161 @@
+[W 16:48:38.594 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 16:48:38.594 NotebookApp] The port 8888 is already in use, trying another port.
+[I 16:48:38.610 NotebookApp] JupyterLab beta preview extension loaded from /home/he/anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 16:48:38.610 NotebookApp] JupyterLab application directory is /home/he/anaconda3/share/jupyter/lab
+[I 16:48:38.612 NotebookApp] Serving notebooks from local directory: /home/he/Data
+[I 16:48:38.612 NotebookApp] 0 active kernels
+[I 16:48:38.612 NotebookApp] The Jupyter Notebook is running at:
+[I 16:48:38.612 NotebookApp] http://sse:8889/
+[I 16:48:38.612 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 16:49:30.477 NotebookApp] 302 GET /tree? (192.168.1.100) 2.00ms
+[I 16:49:34.279 NotebookApp] 302 POST /login?next=%2Ftree%3F (192.168.1.100) 2.71ms
+[I 16:49:44.893 NotebookApp] Kernel started: 9da3b3d1-744b-4df3-957f-b3703b3793c0
+[I 16:49:45.139 NotebookApp] Adapting to protocol v5.1 for kernel 9da3b3d1-744b-4df3-957f-b3703b3793c0
+[I 16:50:43.371 NotebookApp] Starting buffering for 9da3b3d1-744b-4df3-957f-b3703b3793c0:b329c39fb6664a1b8f34e82bcc8df96a
+[I 16:50:43.590 NotebookApp] Kernel restarted: 9da3b3d1-744b-4df3-957f-b3703b3793c0
+[I 16:50:43.864 NotebookApp] Adapting to protocol v5.1 for kernel 9da3b3d1-744b-4df3-957f-b3703b3793c0
+[I 16:50:43.865 NotebookApp] Restoring connection for 9da3b3d1-744b-4df3-957f-b3703b3793c0:b329c39fb6664a1b8f34e82bcc8df96a
+[I 16:50:43.865 NotebookApp] Replaying 6 buffered messages
+[I 16:51:44.949 NotebookApp] Saving file at /generate_csv.ipynb
+[I 16:53:44.941 NotebookApp] Saving file at /generate_csv.ipynb
+[I 16:55:44.923 NotebookApp] Saving file at /generate_csv.ipynb
+[I 16:57:44.934 NotebookApp] Saving file at /generate_csv.ipynb
+[I 16:59:44.957 NotebookApp] Saving file at /generate_csv.ipynb
+[I 17:01:44.935 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[I 17:03:44.930 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[I 17:05:44.964 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[I 17:09:44.928 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[I 17:11:44.946 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[I 17:13:44.932 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[I 17:15:44.965 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[I 17:17:44.946 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[I 17:19:44.931 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[I 17:21:44.926 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[I 17:23:45.220 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[I 18:41:03.671 NotebookApp] Starting buffering for 9da3b3d1-744b-4df3-957f-b3703b3793c0:b329c39fb6664a1b8f34e82bcc8df96a
+[I 20:44:58.759 NotebookApp] Adapting to protocol v5.1 for kernel 9da3b3d1-744b-4df3-957f-b3703b3793c0
+[I 20:46:58.793 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[I 20:48:58.684 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[W 20:50:04.178 NotebookApp] 404 GET /nbconvert/html/custom.css (192.168.1.100): No such file or directory: custom.css
+[W 20:50:04.186 NotebookApp] 404 GET /nbconvert/html/custom.css (192.168.1.100) 47.66ms referer=http://192.168.1.109:8889/nbconvert/html/generate_fixation_csv.ipynb?download=false
+[W 20:50:05.461 NotebookApp] 404 GET /nbconvert/html/custom.css (192.168.1.100): No such file or directory: custom.css
+[W 20:50:05.461 NotebookApp] 404 GET /nbconvert/html/custom.css (192.168.1.100) 12.30ms referer=http://192.168.1.109:8889/nbconvert/html/generate_fixation_csv.ipynb?download=false
+[C 21:04:52.711 NotebookApp] received signal 15, stopping
+[I 21:04:52.712 NotebookApp] Shutting down 1 kernel
+[I 21:04:52.812 NotebookApp] Kernel shutdown: 9da3b3d1-744b-4df3-957f-b3703b3793c0
+[W 17:09:29.548 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 17:09:29.548 NotebookApp] The port 8888 is already in use, trying another port.
+[I 17:09:29.565 NotebookApp] JupyterLab beta preview extension loaded from /home/he/anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 17:09:29.565 NotebookApp] JupyterLab application directory is /home/he/anaconda3/share/jupyter/lab
+[I 17:09:29.568 NotebookApp] Serving notebooks from local directory: /home/he/Data
+[I 17:09:29.568 NotebookApp] 0 active kernels
+[I 17:09:29.568 NotebookApp] The Jupyter Notebook is running at:
+[I 17:09:29.568 NotebookApp] http://sse:8889/
+[I 17:09:29.568 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 17:10:25.287 NotebookApp] 302 GET / (192.168.1.100) 0.46ms
+[W 17:10:25.303 NotebookApp] Clearing invalid/expired login cookie username-192-168-1-109-8889
+[W 17:10:25.304 NotebookApp] Clearing invalid/expired login cookie username-192-168-1-109-8889
+[I 17:10:25.304 NotebookApp] 302 GET /tree? (192.168.1.100) 1.46ms
+[I 17:10:28.391 NotebookApp] 302 POST /login?next=%2Ftree%3F (192.168.1.100) 0.65ms
+[I 17:10:57.611 NotebookApp] Kernel started: 421b8491-6f53-48dd-a22e-b580161e10f9
+[I 17:10:57.975 NotebookApp] Adapting to protocol v5.1 for kernel 421b8491-6f53-48dd-a22e-b580161e10f9
+[I 17:12:56.588 NotebookApp] Starting buffering for 421b8491-6f53-48dd-a22e-b580161e10f9:3c2e2a132bde43d38c2b52516601851d
+[I 17:12:56.798 NotebookApp] Kernel restarted: 421b8491-6f53-48dd-a22e-b580161e10f9
+[I 17:12:57.079 NotebookApp] Adapting to protocol v5.1 for kernel 421b8491-6f53-48dd-a22e-b580161e10f9
+[I 17:12:57.080 NotebookApp] Restoring connection for 421b8491-6f53-48dd-a22e-b580161e10f9:3c2e2a132bde43d38c2b52516601851d
+[I 17:12:57.080 NotebookApp] Replaying 3 buffered messages
+[I 17:12:57.614 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[I 17:14:57.951 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[I 17:16:57.626 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[I 17:18:57.661 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[I 19:55:59.618 NotebookApp] Starting buffering for 421b8491-6f53-48dd-a22e-b580161e10f9:3c2e2a132bde43d38c2b52516601851d
+[C 20:05:26.342 NotebookApp] received signal 15, stopping
+[I 20:05:26.343 NotebookApp] Shutting down 1 kernel
+[I 20:05:26.645 NotebookApp] Kernel shutdown: 421b8491-6f53-48dd-a22e-b580161e10f9
+[W 18:29:36.302 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 18:29:36.682 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 18:29:36.701 NotebookApp] JupyterLab beta preview extension loaded from /home/he/anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 18:29:36.701 NotebookApp] JupyterLab application directory is /home/he/anaconda3/share/jupyter/lab
+[I 18:29:36.704 NotebookApp] Serving notebooks from local directory: /media/he/data2/Data
+[I 18:29:36.704 NotebookApp] 0 active kernels
+[I 18:29:36.704 NotebookApp] The Jupyter Notebook is running at:
+[I 18:29:36.704 NotebookApp] http://sse:8888/
+[I 18:29:36.704 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 18:29:43.756 NotebookApp] Interrupted...
+[I 18:29:43.756 NotebookApp] Shutting down 0 kernels
+[W 18:29:57.165 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 18:29:57.178 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 18:29:57.191 NotebookApp] JupyterLab beta preview extension loaded from /home/he/anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 18:29:57.191 NotebookApp] JupyterLab application directory is /home/he/anaconda3/share/jupyter/lab
+[I 18:29:57.193 NotebookApp] Serving notebooks from local directory: /media/he/data2/Data
+[I 18:29:57.193 NotebookApp] 0 active kernels
+[I 18:29:57.193 NotebookApp] The Jupyter Notebook is running at:
+[I 18:29:57.194 NotebookApp] http://sse:8888/
+[I 18:29:57.194 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 18:32:37.177 NotebookApp] Notebook generate_fixation_csv.ipynb is not trusted
+[I 18:32:37.664 NotebookApp] Kernel started: 60ea3abd-4fa0-4a45-b55c-aafdfc427317
+[I 18:32:38.030 NotebookApp] Adapting to protocol v5.1 for kernel 60ea3abd-4fa0-4a45-b55c-aafdfc427317
+[I 18:34:37.693 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[W 18:34:37.695 NotebookApp] Notebook generate_fixation_csv.ipynb is not trusted
+[I 18:36:37.677 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[W 18:36:37.678 NotebookApp] Notebook generate_fixation_csv.ipynb is not trusted
+[I 18:38:37.681 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[W 18:38:37.682 NotebookApp] Notebook generate_fixation_csv.ipynb is not trusted
+[I 18:40:38.968 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[W 18:40:38.969 NotebookApp] Notebook generate_fixation_csv.ipynb is not trusted
+[I 18:42:09.257 NotebookApp] Kernel interrupted: 60ea3abd-4fa0-4a45-b55c-aafdfc427317
+[I 18:42:37.687 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[W 18:42:37.689 NotebookApp] Notebook generate_fixation_csv.ipynb is not trusted
+[I 18:44:37.693 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[W 18:44:37.695 NotebookApp] Notebook generate_fixation_csv.ipynb is not trusted
+[I 18:45:41.590 NotebookApp] Starting buffering for 60ea3abd-4fa0-4a45-b55c-aafdfc427317:42981f5a852942dd8bd34829353a2cb6
+[I 18:45:41.797 NotebookApp] Kernel restarted: 60ea3abd-4fa0-4a45-b55c-aafdfc427317
+[I 18:45:42.204 NotebookApp] Adapting to protocol v5.1 for kernel 60ea3abd-4fa0-4a45-b55c-aafdfc427317
+[I 18:45:42.204 NotebookApp] Restoring connection for 60ea3abd-4fa0-4a45-b55c-aafdfc427317:42981f5a852942dd8bd34829353a2cb6
+[I 18:45:42.204 NotebookApp] Replaying 5 buffered messages
+[I 18:46:37.692 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[I 18:50:32.842 NotebookApp] Starting buffering for 60ea3abd-4fa0-4a45-b55c-aafdfc427317:42981f5a852942dd8bd34829353a2cb6
+[I 18:50:33.053 NotebookApp] Kernel restarted: 60ea3abd-4fa0-4a45-b55c-aafdfc427317
+[I 18:50:33.475 NotebookApp] Adapting to protocol v5.1 for kernel 60ea3abd-4fa0-4a45-b55c-aafdfc427317
+[I 18:50:33.475 NotebookApp] Restoring connection for 60ea3abd-4fa0-4a45-b55c-aafdfc427317:42981f5a852942dd8bd34829353a2cb6
+[I 18:50:33.475 NotebookApp] Replaying 5 buffered messages
+[I 18:50:41.305 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[I 18:52:39.446 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[I 18:54:37.675 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[I 18:56:37.668 NotebookApp] Saving file at /generate_fixation_csv.ipynb
+[C 19:06:42.268 NotebookApp] received signal 15, stopping
+[I 19:06:42.269 NotebookApp] Shutting down 1 kernel
+[I 19:06:42.471 NotebookApp] Kernel shutdown: 60ea3abd-4fa0-4a45-b55c-aafdfc427317
+[W 12:52:43.246 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 12:52:43.632 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 12:52:43.651 NotebookApp] JupyterLab beta preview extension loaded from /home/he/anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 12:52:43.651 NotebookApp] JupyterLab application directory is /home/he/anaconda3/share/jupyter/lab
+[I 12:52:43.654 NotebookApp] Serving notebooks from local directory: /media/he/data2/Data
+[I 12:52:43.654 NotebookApp] 0 active kernels
+[I 12:52:43.654 NotebookApp] The Jupyter Notebook is running at:
+[I 12:52:43.654 NotebookApp] http://sse:8888/
+[I 12:52:43.654 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 12:53:02.335 NotebookApp] 302 GET / (192.168.1.120) 1.11ms
+[I 12:53:10.565 NotebookApp] Copying generate_segment_csv.ipynb to 
+[W 12:53:10.919 NotebookApp] Notebook generate_segment_csv.ipynb is not trusted
+[W 12:53:10.925 NotebookApp] Notebook generate_segment_csv-Copy1.ipynb is not trusted
+[W 12:53:14.267 NotebookApp] Notebook generate_segment_csv-Copy1.ipynb is not trusted
+[I 12:53:15.282 NotebookApp] Kernel started: 3ce8aaee-59fb-4332-93b2-c04b7195e3c2
+[I 12:53:15.578 NotebookApp] Adapting to protocol v5.1 for kernel 3ce8aaee-59fb-4332-93b2-c04b7195e3c2
+[I 12:55:15.356 NotebookApp] Saving file at /generate_classification_csv.ipynb
+[W 12:55:15.358 NotebookApp] Notebook generate_classification_csv.ipynb is not trusted
+[I 12:55:33.413 NotebookApp] Starting buffering for 3ce8aaee-59fb-4332-93b2-c04b7195e3c2:a75456032b4443c88b086406a0bd97f9
+[I 12:55:33.623 NotebookApp] Kernel restarted: 3ce8aaee-59fb-4332-93b2-c04b7195e3c2
+[I 12:55:33.937 NotebookApp] Adapting to protocol v5.1 for kernel 3ce8aaee-59fb-4332-93b2-c04b7195e3c2
+[I 12:55:33.938 NotebookApp] Restoring connection for 3ce8aaee-59fb-4332-93b2-c04b7195e3c2:a75456032b4443c88b086406a0bd97f9
+[I 12:55:33.938 NotebookApp] Replaying 6 buffered messages
+[I 12:57:15.295 NotebookApp] Saving file at /generate_classification_csv.ipynb
+[I 12:59:15.316 NotebookApp] Saving file at /generate_classification_csv.ipynb
+[I 13:01:15.290 NotebookApp] Saving file at /generate_classification_csv.ipynb
+[I 13:03:17.900 NotebookApp] Saving file at /generate_classification_csv.ipynb
+[I 13:03:18.343 NotebookApp] Saving file at /generate_classification_csv.ipynb
+[I 13:05:15.910 NotebookApp] Saving file at /generate_classification_csv.ipynb
+[I 13:07:15.346 NotebookApp] Saving file at /generate_classification_csv.ipynb
+[C 13:11:36.547 NotebookApp] received signal 15, stopping
+[I 13:11:36.547 NotebookApp] Shutting down 1 kernel
+[I 13:11:36.749 NotebookApp] Kernel shutdown: 3ce8aaee-59fb-4332-93b2-c04b7195e3c2
